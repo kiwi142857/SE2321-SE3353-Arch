@@ -1,0 +1,7 @@
+ [submodule "BookStore-Frontend"]
+	path = BookStore-Frontend
+	url = git@github.com:kiwi142857/SE2321-SE3353-BookStore-Frontend.git
+
+[submodule "BookStore-Backend"]
+	path = BookStore-Backend
+	url = git@github.com:kiwi142857/SE2321-SE3353-BookStore-Backend.git
